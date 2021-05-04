@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: cucumberOptions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.762 s <<< FAILURE! - in cucumberOptions.TestRunner
+Person interested in buying a mobile and wants to see the offers(Have a page with mobile phones available for purchase)  Time elapsed: 0.321 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\usuario\Documents\Curso_Selenium\Recursos\geckodriver.exe
+
+User not registered on the website(Login to the website to buy products)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\usuario\Documents\Curso_Selenium\Recursos\geckodriver.exe
+
